@@ -6,7 +6,8 @@ Quando um medicamento precisa ser tomado em um horário específico, esquecer po
 
 ## Por que fiz este projeto
 
-A ideia por trás do projeto foi ajudar a minha namorada a lembrar de tomar o remédio **no horário exato**, criando um bot simples que envia lembretes automaticamente pelo WhatsApp.
+A ideia por trás do projeto foi ajudar a minha namorada a lembrar de tomar o remédio **no horário exato**, criando um bot simples que envia lembretes automaticamente pelo WhatsApp. Para isso, utilizei **Node.js, whatsapp-web.js e node-cron**.
+
 
 ## Como funciona
 
